@@ -1,6 +1,6 @@
 
 from maze_generator import *
-white = 61, 30, 14
+
 white=255,255,255
 
 class Food:
